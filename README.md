@@ -57,7 +57,13 @@ SQL was used to perform:
 The complete SQL queries are available in:
 `EDA_FINANCE.sql`
 
-
+   🔍 Key Insights
+   - Highest transaction amount comes from Loan EMI
+   - UPI is the most preferred transaction channel
+   - Retail customer segment contributes the highest transaction amount (54.46%)
+   - Overall transaction success rate is 86%
+   - Maharashtra has the highest transaction amount among all states
+   - Rent is the merchant category that generated the highest transaction amount
 
 📁 Project Files
 
